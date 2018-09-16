@@ -232,4 +232,4 @@ _Pvt_Extensions
 # FAKE - F# Make
 .fake/
 
-dist_____/
+ClientApp/dist_____/
